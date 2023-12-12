@@ -1,5 +1,5 @@
 # CS290-G22: Budget Tracker
-Final Project Repo for CS 290 Section 001 - Group 22
+Copy of Final Project Repo for CS 290 Section 001 - Group 22
 
 ## Team Members
 * Cameron Rice

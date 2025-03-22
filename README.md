@@ -8,3 +8,7 @@ of their expenses in a list that states the category and amount spent.
 ## Tech Stack
 
 The project is built using Vanilla JavaScript for the logic, Handlebars for templating, and HTML for the structure.
+
+
+## To Run
+Clone the repo and run `npm i;npm run dev`
